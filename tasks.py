@@ -25,6 +25,6 @@ def reverse1(B):
             i.reverse()
         else:
             pass
-    return B
+    return input2
 
 print(reverse1(input2))
